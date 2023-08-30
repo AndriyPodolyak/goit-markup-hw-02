@@ -1,0 +1,47 @@
+:root {
+    --color-white: #FFF;
+    --navyblue: #2E2F42;
+}
+
+.header {
+    background-color: var(--c-white);
+}
+
+.logo {
+    color: #2E2F42;   
+}
+
+.logo .accent {
+    color: #4D5AE5;
+}
+
+.nav-link {
+    color: #2E2F42;
+}
+
+.address-link {
+    color: #434455;
+}
+
+.solutions-section {
+    background-color: var(--navyblue);
+}
+
+h1 {
+    color: var(-c-white);
+}
+
+.solutions-button {
+    color: var(-c-white);
+    background-color: #4D5AE5;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.our-advantages-section {
+    background-color: var(-c-white);
+}
+
+h3 {
+    color: #2E2F42
+}
