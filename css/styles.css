@@ -42,19 +42,9 @@ ul {
     color: #404BBF;  
 }
 
-.nav-link-studio {
-    color: #2E2F42;
-    font-family: Roboto, sans-serif;
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
-
-.nav-link-studio:active {
+.nav-link:active {
     color: #404bbf;
 }
-
 
 .address-link {
     color: #434455; 
