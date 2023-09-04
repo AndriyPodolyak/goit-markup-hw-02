@@ -142,6 +142,10 @@ ul {
     text-transform: capitalize;
 }
 
+.team-li {
+    background-color: #FFFFFF;
+}
+
 .our-portfolio-section {
     background-color: #FFF;
 }
