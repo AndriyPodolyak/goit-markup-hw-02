@@ -31,11 +31,11 @@ ul {
 
 .logo {
     color: #2E2F42;
-    font-family: Raleway; sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
-    letter-spacing: -0.03em;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -129,11 +129,11 @@ h2 {
 }
 .logo-footer {
     color: #FFF;
-    font-family: Raleway; sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.16;
-    letter-spacing: -0.03em;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 .logo-accent-footer {
