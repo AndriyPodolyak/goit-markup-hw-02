@@ -94,7 +94,7 @@ h1:hover {
     background-color: #404BBF;
 }
 
-.solutions-button:active {
+.solutions-button:focus {
     background-color: #404BBF;
 }
 
