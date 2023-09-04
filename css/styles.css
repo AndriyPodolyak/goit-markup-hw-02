@@ -42,7 +42,7 @@ ul {
     color: #404BBF;  
 }
 
-.nav-link:active {
+.nav-link:focus {
     color: #404bbf;
 }
 
@@ -58,6 +58,10 @@ ul {
 
 .address-link:hover {
     color: #404BBF;
+}
+
+.address-link:focus {
+    color :#404bbf;
 }
 
 .solutions-section {
