@@ -61,13 +61,18 @@ ul {
 }
 
 h1 {
-    color: #FFF ;
-    font-family: Roboto; 
-    font-size: 56px;
-    font-weight: 700;
-    line-height: 1.07;
-    letter-spacing: 0.02em;
+    color: #FFF;
+    font-family: Roboto; sans-serif;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     text-decoration: none;
+}
+
+h1:hover {
+    background-color: #404BBF;
 }
 
 .solutions-button {
@@ -97,9 +102,11 @@ h3 {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
 .our-team-section {
-    background-color: #FFF;
+    background-color: #F4F4FD;
 }
+
 .team-title {
     color: #2e2f42;
     font-family: Roboto;
@@ -108,12 +115,13 @@ h3 {
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    text-transform: capitalize
+    text-transform: capitalize;
 }
 
 .our-portfolio-section {
     background-color: #FFF;
 }
+
 .portfolio-title {
     color: #2e2f42;
     font-family: Roboto;
@@ -142,6 +150,7 @@ h3 {
 .logo-accent-footer {
     color: #F4F4FD;
 }
+
 .footer-p {
     color: #F4F4FD;
     font-family: Roboto;
