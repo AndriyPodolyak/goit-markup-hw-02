@@ -82,7 +82,7 @@ ul {
     text-decoration: none;
 }
 
-h1:hover {
+.solutions-header:hover {
     background-color: #404BBF;
 }
 
