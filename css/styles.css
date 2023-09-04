@@ -39,9 +39,19 @@ ul {
     letter-spacing: 0.02em;
 }
 .nav-link:hover {
-    color: #404BBF;
+    color: #404BBF;  
 }
-.nav-link:active {
+
+.nav-link-studio {
+    color: #2E2F42;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.nav-link-studio:active {
     color: #404bbf;
 }
 
