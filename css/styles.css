@@ -109,7 +109,7 @@ h1:hover {
     background-color: #FFF;
 }
 
-h3 {
+.header-normal {
     color: #2e2f42;
     font-family: Roboto;
     font-size: 20px;
@@ -117,6 +117,7 @@ h3 {
     line-height: 1.2;
     letter-spacing: 0.02em;
 }
+
 .section-p {
     color: #434455;
     font-family: Roboto; 
