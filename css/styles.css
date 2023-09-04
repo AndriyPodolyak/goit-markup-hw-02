@@ -94,6 +94,10 @@ h1:hover {
     background-color: #404BBF;
 }
 
+.solutions-button:active {
+    background-color: #404BBF;
+}
+
 .our-advantages-section {
     background-color: #FFF;
 }
